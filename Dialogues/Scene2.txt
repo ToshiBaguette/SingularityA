@@ -1,0 +1,69 @@
+Background~TroneCristal
+Shura~Sourit~Juste comme ça !!
+Goldy~Sourit~. . .
+Lugalbanda~Surprise~Où est-ce qu'on est ?!
+Shura~Smug~Dans un autre palais d'un autre Uruk, peut-être.
+Goldy~Pensif~. . .
+Lugalbanda~Sourit~Oh, très bien alo-
+Lugalbanda~Colère~Comment ça "PEUT-ÊTRE" ?!
+Shura~Smug~Et bien, il se trouve que je ne suis pas sûre moi-même !
+Goldy~Normal~. . .
+Lugalbanda~Surprise~Mais pourquoi tu nous ammènes ici si tu ne sais pas toi-même où on est ?!
+Shura~Colère~C'est toi qui l'a demandé !
+Lugalbanda~Normal~Bien, passons... Et donc, comment on rentre ?
+Shura~Smug~La dernière fois, Inanna avait explosé le plafond puis on avait cliqué sur le bouton !
+Lugalbanda~Normal~Étonnament simple, et ça nous fait retourner sur la plage ?
+Shura~Sourit~Non ! On se perd dans une fôret loin du palais !
+Goldy~Normal~Shura.
+Shura~Smug~Oui, maîtresse ?
+Goldy~Normal~Fais nous rentrer.
+Shura~Colère~Tu ne m'écoutes pas ?!
+Goldy~Colère~Comment ça, je ne t'écoute pas ?!
+Shura~Colère~JE ! NE ! SAIS ! PAS ! COMMENT ! FAIRE !
+Lugalbanda~Sourit~Voyons, toutes les deux, calmez-vous.
+Inconnu~Everett~Qu'est-ce que...
+Goldy~Pensif~En attendant, on ne sait pas comment retourner à Uruk...
+Shura~Smug~Techniquement, on y est !
+Lugalbanda~Sourit~Mmh ?
+Goldy~Génée~Oui, enfin... Non, pas vraiment.
+Shura~Colère~Si, on est Uruk ! Juste pas notre Uruk !!
+Goldy~Normal~Et bien dans ce cas là je vais reformuler pour toi.
+Goldy~Sourit~En attendant, nous ne sommes pas dans la ville que nous connaissons.
+Shura~Smug~Ça c'est bien vrai, on est dans un palais à explorer !
+Goldy~Pensif~Explorer, explorer, je ne pense pas que ça soit le moment. Hein maman ?
+Shura~Smug~ 
+Goldy~Sourit~Ma... Man ?
+Shura~Smug~ 
+Goldy~Colère~Maman ?!
+Goldy~Génée~Elle n'est quand même pas partie "explorer" elle aussi ?
+Lugalbanda~Sourit~... puis elle me dit que je ne devrai pas rentrer dans sa chambre !
+Everett~Normal~Je... Vois...?
+Lugalbanda~Sourit~Ce qu'elle peut être pudique même avec sa mère...
+Everett~Normal~O-Oui...
+Lugalbanda~Colère~En plus, elle n'accepte plus mes calins !
+Everett~Normal~C'est... Terrible, je... Je crois ?
+Lugalbanda~Colère~Évidemment que ça l'est ! Elle ne me fait plus de calins et ne veut plus que je rentre dans sa chambre !
+Everett~Normal~C'est... Normal pour son âge, non ?
+Lugalbanda~Surprise~Elle ferait donc sa crise d'adolescence ?!
+Everett~Normal~P-Peut-être ?
+Everett~Colère~[Mais pourquoi elle me parle de ses problèmes avec sa fille ?]
+Lugalbanda~Colère~Dans ce cas je vais devoir resserer les vis ! En rentrant, je range sa chambre !
+Everett~Colère~Mais en quoi ça va serrer les vis ?!
+Goldy~Normal~Maman, à qui est-ce que tu p-
+Everett~Surprise~Quelqu'un d'autre ? O-Occupez-vous d'elle !
+Goldy~Génée~Maman, je peux savoir ce que tu lui as raconté ?
+Lugalbanda~Sourit~Tous nos problèmes !
+Everett~Colère~De relation mère-fille !
+Shura~Surprise~C'est grave ce genre de problèmes !!
+Goldy~Pensif~Nos problèmes de relation... Mère-fille ?
+Everett~Normal~Elle ne fait que de parler du fait que vous ne voulez pas lui faire de câlin...
+Goldy~Colère~CE genre de "PROBLÈMES" ?!
+Lugalbanda~Colère~Les problèmes les plus importants d'abord !
+Goldy~Colère~On a beaucoup plus important à partager !
+Everett~Surprise~Parlant de problèmes ! Qu'est-ce que vous faites là ?
+Everett~Heureuse~[Elles sont enfin venues me dire qu'elles voulaient que je reste avec elles ? Que je devienne leur amie ?]
+Shura~Sourit~On a appuyé sur le bouton que tu m'avais donné il y a quelques temps, et on veut rentrer maintenant !
+Everett~Normal~Oh...
+Goldy~Normal~Donc, tu peux nous faire rentrer ?
+Everett~Sourit~Oui, évidemment. Il me suffit juste de me concentrer un peu et...
+End~Scene3

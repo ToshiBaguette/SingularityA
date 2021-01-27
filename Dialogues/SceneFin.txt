@@ -1,0 +1,26 @@
+Background~Uruk
+Narrateur~Narrateur~... Et c'est ainsi que cette histoire s'achève.
+Everett~Normal~Quoi ? C'est vrai ? C'est vraiment tout ?
+Narrateur~Narrateur~Et bien oui, que veux-tu de plus ?
+Everett~Normal~Je ne sais pas... On aurait pas oublié de me demander à rejoindre un groupe d'amies par hasard ?
+Narrateur~Narrateur~Je te l'avais dit, tu aurais mieux fait de leur demander directement, plutôt qu'attendre.
+Everett~Colère~Et je vais faire quoi moi maintenant en attendant la prochaine histoire ?
+Narrateur~Narrateur~Je ne sais pas, et je ne peux pas t'aider puisque je suis lié aux histoires.
+Everett~Colère~Attendre toute seule une nouvelle histoire, pendant que leur groupe s'amuse ensemble...
+Everett~Colère~Et c'est vraiment méchant, elles acceptent Frédégonde sans problème, mais pas moi !
+Narrateur~Narrateur~Elle a demandé à les rejoindre après tout...
+Everett~Normal~... C'est pas faux...
+Everett~Sourit~Bien ! Lors de la prochaine histoire, je leur demanderai !
+Narrateur~Narrateur~J'attends avec impatience de te voir à l'oeuvre.
+Narrateur~Narrateur~Quant à toi, lecteur, tu ferais mieux d'attendre cette histoire avec impatience toi aussi.
+Everett~Normal~Depuis quand on brise le 4e mur ?
+Narrateur~Narrateur~Depuis que tu discutes avec le narrateur de l'histoire...
+Narrateur~Narrateur~Enfin, Shura réussira-t-elle à trouver un cadeau pour Inanna ?
+Narrateur~Narrateur~Frédégonde sera-t-elle à la hauteur de son nouveau roi ?
+Narrateur~Narrateur~Qui se cache derrière tous les incidents survenus jusqu'ici ?
+Everett~Normal~Techniquement, le premier c'était moi ?
+Narrateur~Narrateur~... Qui se cache derrière l'incident survenu aujourd'hui ?
+Everett~Normal~Frédégonde ?
+Narrateur~Narrateur~N-Non, enfin oui mais non... T-Tu verras au prochain numéro !
+Narrateur~Narrateur~Rendez-vous la prochaine fois pour la fin de la trilogie du Goldyverse !
+End~Title

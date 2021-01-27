@@ -1,0 +1,38 @@
+Background~Plage
+Music~Administrator~True
+Frédégonde~Triste~C'est... C'est impossible...
+Sagburu~SeuleSourit~Bien, maintenant reconnaîs ta place, et rends nous Enmerkar !
+Frédégonde~Triste~Je n'y crois pas. Je n'y crois pas...
+Inanna~Pensif~Dites, qui l'a frappée trop fort à la tête ?
+Frédégonde~Triste~Bande de voleurs ! Voleurs ! Voleurs ! Voleurs !
+Frédégonde~Colère~Je ne vous donnerai jamais le fruit de mon amour ! Je ne vous permettrai pas d'y toucher !
+Goldy~Normal~Tu es déjà vaincue, rends-toi si tu tiens à la vie.
+Frédégonde~Colère~M-Mon roi... Veut sûrement que je me tue pour lui !
+Music~Kotayaka~True
+Ur-Nungal~Normal~Il n'empêche qu'elle est passionnée par son amour.
+Ur-Nungal~Heureuse~Je trouve ça beau !
+Goldy~Génée~Sauf qu'elle a enlevé le Tou- Enmerkar, pour ça...
+Inanna~Pensif~Elle est irraisonnable...
+Lugalbanda~Sourit~Aller, dis-nous où est Enmerkar et tout sera réglé !
+Frédégonde~Colère~Plutôt mourrir et l'emporter avec moi pour l'éternité ! Nous serons de nouveau ensemble une fois morts !
+Goldy~Pensif~On n'arrivera à rien si elle continue...
+Everett~Normal~Ça nous aura bien avancé d'être venues jusqu'ici...
+Ur-Nungal~Normal~Hum... S'il te plaît ? Pourquoi est-ce que tu ne veux pas nous dire où il est ?
+Goldy~Normal~Ne t'approches pas trop, Ur-Nungal.
+Frédégonde~Colère~Pour le protéger.
+Ur-Nungal~Heureuse~C'est un beau but !
+Frédégonde~Normal~Je me dois simplement de protéger mon roi.
+Ur-Nungal~Normal~Mais... Tu sais, nous sommes la famille d'En- Du roi.
+Frédégonde~Triste~Vous pouvez tout de même lui faire du mal, et le pousser à ne plus me revoir.
+Ur-Nungal~Normal~Pourquoi ferions-nous ça ? Nous voulons son bien, nous aussi !
+Frédégonde~Normal~Vous dites... Qu'on partage le même objectif ?
+Ur-Nungal~Heureuse~Oui !
+Ur-Nungal~Normal~Je vous propose de demander directement au roi ce qu'il préfère, afin de savoir ce qu'il faut faire !
+Frédégonde~Normal~Mais... S'il ne sait pas ce qui lui serait le plus bénéfique ? S'il ne-
+Ur-Nungal~Heureuse~Le roi est assez grand pour décider lui-même ce qui lui est bénéfique !
+Frédégonde~Triste~...
+Goldy~Normal~(Au moindre geste brusque...)
+Shura~Sourit~(Elle a l'air d'être calmée, maîtresse !)
+Everett~Normal~(Et donc, on est vraiment SÛRES qu'elle n'a pas de Charme ?)
+Frédégonde~Triste~... Bien, allons lui demander.
+End~Scene10

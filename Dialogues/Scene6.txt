@@ -1,0 +1,97 @@
+Background~Foret
+Music~Kotayaka~True
+Lugalbanda~Sourit~Voilà qui est fait !
+Ur-Nungal~Sérieuse~On pourrait avoir plus d'informations, à propos de cette "Reine" maintenant ?
+Goldy~Sourit~N'oublie pas les bonnes manières, ma fille.
+Ur-Nungal~Normal~Ah ? Heu... Oui. S-S'il vous plaît.
+Lugalbanda~Normal~Une jeune fille bien éduquée.
+Inconnu~Soldat~J-Je n'ai aucune information à donner à des gens dans votre genr-
+Music~Explosion~True
+Sagburu~SeuleSourit~*Menacing Sagburu Noises*
+Inconnu~Soldat~O-Ok ! Je vais tout vous dire ! TOUT !
+Goldy~Pensif~J'avoue que je ne connaissais pas ce côté de Sagburu.
+Sagburu~SeuleNormal~Quel côté ?
+Shura~Colère~Celui avec les explosions !
+Sagburu~SeuleSourit~Oh ça ? C'est normal, je peux me lâcher quand il n'y a pas Enmerkar dans les parrages !
+Music~Kotayaka~True
+Goldy~Pensif~Dans tous les cas...
+Goldy~Normal~Qui est la Reine ?
+Inconnu~Soldat~Et bien...
+Inanna~Colère~Parle ! Dis nous tout !
+Shock~Inconnu~1~3
+Inconnu~Soldat~C-C'est une reine d'une autre époque qui nous a charmé !
+Everett~Surprise~Charmé ? Comme-
+Shura~Sourit~Comme maîtresse !!
+Shock~Everett~2~3
+Everett~Surprise~P-Pourquoi Gilgamesh ?
+Shura~Colère~Et bien une fois, dans une cabine d'essayage-
+Everett~Normal~Je n'ai pas envie de connaître la suite, actuellement...
+Goldy~Génée~Ce n'est absolument pas ce que tu crois...
+Goldy~Colère~Et Shura, arrêtes de raconter n'importe quoi !
+Inconnu~Soldat~Et hum...
+Shura~Smug~Ce n'est pas n'importe quoi, tu sais quand tu étais dans la cabine et que tu te déshabi-
+Goldy~Colère~ARRÊTES D'EN PARLER DEVANT TOUT LE MONDE !
+Lugalbanda~Sourit~Oh ? C'est pourtant une histoire que j'ai très envie d'entendre !
+Inanna~Pensif~C'est sûrement juste une bêtise à Shura...
+Shura~Sourit~Non, même que la porte n'était pas fermée donc maîtresse voulait sûrement partager sa cabine !
+Inconnu~Soldat~Hum... S-S'il vous pl-
+Goldy~Colère~SHURA ARRÊTES TOUT DE SUITE ! CHANGES DE SUJET !
+Inanna~Génée~Partager sa cabine...?
+Inanna~Sourit~Shura ! Dis m'en plus, pour... Voir.
+Lugalbanda~Sourit~Je serai aussi intéressée de voir la suite.
+Sagburu~SeuleSourit~J'avoue que vous retenez mon attention ici !
+Goldy~Génée~M-Même Sagburu ?! N-Non, on va éviter d'aller plus loin dans cette histoire hein ?
+Everett~Sourit~... Et c'est pour ça qu'on appelle ça un péché.
+Ur-Nungal~Normal~Je vois... Et sinon, maman parle de quoi avec Shura et-
+Everett~Colère~De choses que tu ferais sûrement mieux de ne pas écouter.
+Inconnu~Soldat~E-Excusez-moi ? C'est qu'en fait je suis censé vous aider et-
+Sagburu~SeuleColère~MAIS FERME LÀ ! On essaye d'écouter une histoire intéressante !
+Goldy~Pensif~... Actuellement, moi j'aimerai bien écouter ce qu'il a à dire.
+Lugalbanda~Sourit~Laissons de côté cette histoire, mais soit sûre de reprendre plus tard, Shura !
+Shura~Colère~Pas de soucis, chef !
+Everett~Normal~Elles ont l'air d'avoir finit...
+Inconnu~Soldat~Ahem. D-Donc je disais... Elle se trouve-
+Sagburu~SeuleNormal~On sait DÉJÀ où elle se trouve, dans une plaine derrière la forêt dans laquelle on est.
+Inconnu~Soldat~O-Oui...
+Inanna~Colère~Ce qu'on aimerait, c'est son nom !
+Inconnu~Soldat~Son nom...? Je ne l'ai pas, on l'appelle par "Ma Reine".
+Lugalbanda~Sourit~Il va falloir être plus utile que ça, si tu ne veux pas rejoindre tes camarades.
+Inconnu~Soldat~J-Je vous dit tout ce que je sais !
+Ur-Nungal~Normal~Donc vous n'en savez pas beaucoup plus que nous ?
+Inconnu~Soldat~Non, pas vraiment...
+Ur-Nungal~Heureuse~Ce n'est pas grave, merci quand même pour votre aide !
+Inconnu~Soldat~Qu'est ce que... Est-ce un ange ?!
+Lugalbanda~Sourit~*Snif* C'en est un, on ne peut pas en douter.
+Goldy~Génée~M-Maman, est-ce que tu pleures ?
+Lugalbanda~Sourit~*Snif* Absolument, ta fille est trop mignonne !
+Inanna~Pensif~Aller, calmes toi Lulu, on va faire une pause et tout ira bien...
+Ur-Nungal~Heureuse~Mmh ?
+Everett~Normal~E-Elle est terrible en effet... Si on se laisse avoir, on pourrait tout lui céder sans réfléchir...
+Sagburu~SeuleSourit~Tu te trompes d'ennemi, parfaite inconnue.
+Shura~Smug~C'est bien ma Ur-Nungal ça !
+Goldy~Pensif~"Ta" Ur-Nungal ?
+Shura~Sourit~Si tu ne savais pas, je reste souvent avec elle quand je ne suis pas avec toi, maîtresse !
+Goldy~Sourit~Ah oui ? C'est une bonne surprise.
+Ur-Nungal~Normal~P-Pourqui vous me regardez tous ?
+Everett~Colère~Ça reste un mystère : Pourquoi est-ce qu'elle n'a pas de skill Charme ?
+Goldy~Pensif~Elle n'en a pas ?
+Lugalbanda~Sourit~C'est tout comme si elle en avait un !
+Narrateur~Narrateur~Et c'est ainsi que le groupe de Goldy se dirigea vers la sortie de la forêt.
+Narrateur~Narrateur~...
+Narrateur~Narrateur~Elle n'est pas là cette fois-ci ?
+Narrateur~Narrateur~. . .
+Narrateur~Narrateur~Non pas que je me sente un peu seul ! C'est juste que je peux enfin dire...
+Narrateur~Narrateur~Que Goldy et ses amies sont donc en quête de liberté pour Enmerkar ! Quelles péripéties les atten-
+Everett~Colère~*Halète* J-Je suis là !
+Narrateur~Narrateur~Il faudra un jour expliquer comment tu peux venir dans la loge du narrateur comme ç-
+Everett~Colère~Je ne te laisserai pas dire des mensonges ! Retires ce que tu as dit !
+Narrateur~Narrateur~Mais j-
+Everett~Colère~JE NE SUIS TOUJOURS PAS LEUR AMIE !
+Narrateur~Narrateur~Parlant de ça... On se connait depuis pas mal de temps maintenant non ?
+Everett~Normal~Et ?
+Narrateur~Narrateur~Pourquoi tu ne leur demandes juste pas si tu peux devenir leur amie ?
+Everett~Colère~Ce n'est pas à moi de le faire ! Je crois !
+Narrateur~Narrateur~Je... Je vois... L'attente va être longue.
+Narrateur~Narrateur~Enfin bref, scène suivante !
+Everett~Colère~Attends, tu n'as toujours pas retiré ce que tu-
+End~Scene7

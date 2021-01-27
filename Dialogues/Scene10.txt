@@ -1,0 +1,68 @@
+Background~TroneCristal
+Sagburu~SeuleSourit~Enmerkar !
+Goldy~Normal~Il est donc sauf...
+Enmerkar~Normal~S-Sagburu ? Tout le monde...?
+Inanna~Sourit~Heureusement que tu es sain et sauf...
+Inanna~Pensif~Je me suis vraiment faite un sang d'encre tu sais ?
+Enmerkar~Normal~Je suis désolé, avant que je ne comprenne ce qu'il se passe, je me suis retrouvé ici avec...
+Frédégonde~Normal~Mon roi-
+Enmerkar~Normal~J'ai arrêté de compter le nombre de fois que je te l'ai dit... Je ne suis pas ton roi !
+Frédégonde~Triste~Mon roi...
+Enmerkar~Normal~Peu importe le nombre de fois que je lui dit, elle n'en prend pas compte...
+Lugalbanda~Normal~Ce doit être terrible, à longueur de journées.
+Frédégonde~Triste~J'ai une demande à vous faire, mon roi...
+Sagburu~SSourit~Vous devriez l'écouter, MON roi !
+Frédégonde~Colère~. . .
+Enmerkar~Normal~... Quelle est cette demande ?
+Frédégonde~Triste~C'est... Dur et ça me fait mal de le demander... Et puis... J'ai peur de votre réponse.
+Enmerkar~Normal~Poses pla toujours.
+Frédégonde~Triste~Préférez-vous... Être avec moi, ou bien avec ces personnes ?
+Enmerkar~Normal~Il n'y a pas de question à se poser... Avec ces personnes évidemment. On ne se connait même pas !
+Frédégonde~Triste~A-Aucune hésitation...
+Inanna~Sourit~Bien, problème réglé ! On rentre ?
+Shura~Normal~J'ai lu le menu en avance, on va bien manger ce soir !
+Lugalbanda~Normal~Ah oui ? C'est quoi ce soir ?
+Frédégonde~Triste~.  .  .
+Ur-Nungal~Normal~. . .
+Frédégonde~Triste~Pourquoi tu ne pars pas avec les autres ? Tu restes pour te moquer de moi ? Pour te vanter d'avoir eu le roi ?
+Ur-Nungal~Sérieuse~J-Je n'ai aucune raison de faire ça !
+Frédégonde~Triste~Alors quoi ? Pourquoi rester ? Tu veux goûter à nouveau à ma lame ?
+Goldy~Normal~ 
+Ur-Nungal~Normal~Et bien... C'est que...
+Ur-Nungal~Heureuse~J-Je voulais te remercier, pour avoir accepté de demander à Enmerkar.
+Frédégonde~Normal~... !
+Narrateur~Narrateur~C'est à cet instant précis que le skill "King's Resolution" frappa Frédégonde.
+Narrateur~Narrateur~En temps normal, cette capacité permet de forcer un certain respect de la part des empereurs et rois envers Nungal.
+Narrateur~Narrateur~Cependant, dans le cas présent... Cela força Frédégonde à reconnaître Ur-Nungal en tant que Roi, et tout ce que cela implique.
+Ur-Nungal~Normal~Q-Qu'est-ce qu'il y a ? Quelque chose ne va pas ?
+Frédégonde~Normal~. . .
+Ur-Nungal~Normal~Tu... Me fais peur. Parles ?
+Goldy~Normal~*Se prépare à sortir une arme du Gate of Babylon*
+Lugalbanda~Normal~*Same*
+Frédégonde~Sourit~Mon roi... En ce jour, je vous jure fidélité jusqu'à ma mort !
+Ur-Nungal~Heureuse~... Pardon ?
+Goldy~Pensif~Mais qu'est-ce que...
+Lugalbanda~Colère~... Un piège ?
+Frédégonde~Sourit~Vous n'avez pas bien entendu, mon roi ? Dois-je répéter ?
+Ur-Nungal~Heureuse~O-Oui, j'ai dû mal comprendre...
+Frédégonde~Sourit~À partir de maintenant, je vous jure fidélité, de vous suivre jusque dans la mort et-
+Ur-Nungal~Normal~P-Pourquoi ce changement d'un coup ?!
+Frédégonde~Normal~Parce que je vous reconnais comme mon roi maintenant.
+Goldy~Pensif~C'est trop soudain...
+Lugalbanda~Colère~Ne la crois pas, Ur-Nungal !
+Ur-Nungal~Sérieuse~E-Elle... Ne ment pas ?
+Goldy~Normal~Qu'est-ce qui te fait dire ça ?
+Ur-Nungal~Normal~Ah heu... Pas que je veuille aller contre toi, maman, ça n'a vraiment rien à voir !
+Goldy~Normal~Oui, je m'en doutais bien, dans ce cas dis-moi pourquoi tu es sûre qu'elle ne ment pas.
+Ur-Nungal~Heureuse~E-Et bien c'est que... J'ai la capacité de voir à l'instinct les actions de certaines personnes...
+Lugalbanda~Surprise~Certaines personnes ?
+Ur-Nungal~Normal~Je ne peux pas, pour vous, mais ça marche sur elle. Elle n'a pas l'air de vouloir me mentir !
+Goldy~Normal~... Fort bien, je vais me fier à ton instinct.
+Goldy~Normal~Mais si elle fait un pas de travers, si elle te fait du mal même sans faire exprès...
+Lugalbanda~Sourit~On la mettra hors d'état de nuire en moins de deux !
+Frédégonde~Normal~Donc... Je suis acceptée ?
+Ur-Nungal~Normal~J'en ai l'impression.
+Ur-Nungal~Normal~Aaaaah par contre ! Tu devras respecter ma famille si je suis ton roi !
+Frédégonde~Sourit~J'en prend note, mon roi, je ne vous empêcherai pas de la voir.
+Ur-Nungal~Heureuse~Merci !
+End~SceneFin

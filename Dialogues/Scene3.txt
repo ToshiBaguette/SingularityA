@@ -1,0 +1,21 @@
+Background~TroneUruk
+Everett~Normal~Nous y voilà, sûrement.
+Goldy~Normal~Je passerai sur le fait que ce "sûrement" ne me rassure pas.
+Lugalbanda~Sourit~Tout est bien qui finit bien finalement !
+Shura~Sourit~Et si on rappuie sur le bouton ici, où est-ce qu'on va ?
+Everett~Sourit~Dans un endroit vide et froid que je ne recommande à personne.
+Inanna~Pleure~O-Où est-ce que vous étiez ?! On vous cherchait partout !
+Goldy~Sourit~Oh, Inanna ! Ça va ?
+Shock~Inanna~3~5
+Inanna~Pleure~Absolument pas ! Enmerkar a été kidnappé !
+Shura~Surprise~Il peut se faire kidnapper ?!
+Goldy~Colère~Quoi ?! M-Mais comment le tout-puissant a-t-il pu...
+Inanna~Pensif~Nous n'avons aucun détail si ce n'est une lettre qui nous dit :
+Inanna~Colère~"Laissez moi tranquille avec mon roi, nous sommes fais l'un pour l'autre !"
+Goldy~Pensif~Mais... Il n'était pas avec Sagburu aux dernières nouvelles ?
+Inanna~Pensif~Si, enfin on pensait, mais Sagburu est dans tous ses états maintenant...
+Inanna~Génée~P-Pas que ça me fasse de l'effet, je ne l'ai jamais sentie, mais elle va vite devenir invivable.
+Goldy~Génée~J'imagine bien... Qui est avec elle en ce moment ?
+Inanna~Normal~Ur-Nungal.
+Goldy~Pensif~On ne pourra donc jamais avoir un moment de tranquilité... Bien, allons les voir.
+End~Scene4

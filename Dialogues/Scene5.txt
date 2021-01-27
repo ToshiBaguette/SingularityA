@@ -1,0 +1,46 @@
+Background~Foret
+Lugalbanda~Sourit~... Et c'est comme ça que j'ai connu ta mère !
+Goldy~Génée~Je... Je vois, mais tu sais, tu me l'avais déjà raconté.
+Sagburu~SeuleSourit~Surtout que la moitié de ce qu'elle a dit est faux !
+Inanna~Génée~Pas que je veuille être d'accord mais...
+Lugalbanda~Normal~J'ai peut-être ajouté un ou deux petits éléments plus romantiques, peut-être.
+Inanna~Pensif~Plus de la moitié du récit est invent-
+Shura~Normal~Moi je pense que c'est beau, et qu'il faut laisser l'histoire comme ça !
+Lugalbanda~Sourit~Au moins une qui aura apprécié mon histoire !
+Goldy~Sourit~Je l'ai appréciée, ton histoire, mais je disais juste que tu l'avais déjà racontée.
+Everett~Normal~Je tiens à le dire juste comme ça, entre deux histoires, mais on est suivies.
+Ur-Nungal~Sérieuse~Ah oui ?
+Goldy~Normal~C'est vrai, il serait enfin temps de les faire sortir de leur cachette...
+Goldy~Colère~Vous, qui nous suivez, présentez-vous !
+Inconnu~Soldat~Vous êtes fortes, pour nous avoir repéré.
+Inanna~Colère~Qui est-ce que vous êtes ?
+Inconnu~Soldat~Notre identité n'a rien d'important pour les futurs morts.
+Inanna~Colère~Futurs morts ?! Répètes un peu espèce de-
+Goldy~Génée~Calmes-toi, Inanna, on a des questions à poser avant de se battre.
+Everett~Normal~Vous pourriez au moins dire à vos victimes pour qui vous travaillez, non ?
+Inconnu~Soldat~Il est vrai. Après tout, qui se soucie de ce que savent les morts ? Nous travaillons pour la reine.
+Goldy~Pensif~La reine ? Il y a une reine par ici ?
+Sagburu~SeuleSourit~Bien, on a notre réponse, maintenant...
+Music~Explosion~True
+Sagburu~SeuleNormal~WAGA NA WA SAGBURU !
+Shura~Surprise~Qu'est-ce que c'est ce langage ?
+Inanna~Pensif~Ça y est, on l'a perdue...
+Sagburu~SeuleSourit~Akuwizado wo nariwai toshi !
+Everett~Normal~Gilgamesh, c'est normal ça...?
+Goldy~Génée~A-Absolument pas ?
+Inconnu~Soldat~Qu'est-ce qu'il arrive à votre amie ? La peur de la mort lui fait péter les plombs ?
+Sagburu~SeuleNormal~Saikyou no kougeki no mahou, bakuretsu mahou, wa aratsuru    mono !
+Lugalbanda~Sourit~C'est ça, l'esprit qu'il faut avoir ! S'amuser en toutes circonst-
+Sagburu~SeuleNormal~EKUSUPUROOOOSHION !
+Shura~Surprise~Wouaaah !! C'est trop bien !
+Lugalbanda~Surprise~Une explosion ?!
+Goldy~Pensif~Son domaine de prédilection, c'est pas censé être les    liquides ?
+Sagburu~SeuleSourit~Bien, voilà qui règle notre problème !
+Inconnu~Soldat~Espèce de... Vous allez regretté ce que vous avez fait à nos amis !
+Everett~Normal~Ils sont plus que prévu... Je vous préviens, je ne sais pas me battre !
+Goldy~Sourit~On peut largement s'en occuper nous-même, ne t'en fais pas.
+Inanna~Sourit~On va vite les faire retourner pleurer chez leurs mères !
+Lugalbanda~Sourit~Non, ils ne pourront plus pleurer une fois morts.
+Music~Id Purpose~True
+Goldy~Génée~Évitez de tuer tout le monde.
+End~battle0

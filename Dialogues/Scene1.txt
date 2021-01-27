@@ -1,0 +1,44 @@
+Background~Plage
+Music~Kotayaka~True
+Goldy~Normal~Et donc, nous revoila sur cette plage...
+Shura~Colère~Oui, et cette fois-ci, c'est pour trouver un cadeau à Inanna !
+Goldy~Pensif~Un cadeau ? C'est son tour pour tes histoires d'anniversaire ?
+Shura~Smug~Exactement !
+Goldy~Génée~Pourtant, tu sais que ce n'est pas aujourd'hui hein ?
+Shura~Sourit~Oui !
+Goldy~Pensif~Elle accepte maintenant...
+Shura~Colère~Donc on doit vraiment lui trouver un super cadeau !
+Goldy~Génée~Mais si ce n'est pas son anniversaire-
+Shura~Sourit~Justement, si le cadeau est génial, elle oubliera que ce n'est pas son anniversaire !
+Goldy~Sourit~Mais une chose pareille ne marchera ja...
+Goldy~Pensif~Non attends, en fait ça peut marcher ?
+Shura~Sourit~N'est-ce pas ?
+Lugalbanda~Normal~Je peux savoir de quoi vous parlez et pourquoi je suis là ?
+Goldy~Génée~Oh, maman, c'est juste une idée bizarre de-
+Shura~Colère~On doit offrir un cadeau d'anniversaire à Inanna !!
+Lugalbanda~Surprise~C'est son anniversaire ?!
+Shura~Colère~Non !!
+Lugalbanda~Sourit~Ah oui, je vois, tout s'expl-
+Lugalbanda~Colère~Pourquoi tu veux lui offrir un cadeau d'anniversaire alors ?!
+Shura~Sourit~Pour lui faire oublier que ça ne l'est pas !
+Lugalbanda~Normal~Et pourquoi vouloir lui faire oublier ?
+Lugalbanda~Surprise~Ça ne va pas entre vous, Gilgamesh ?!
+Goldy~Colère~Ça va très bien entre nous ! Pourquoi ça n'irait pas ?
+Lugalbanda~Sourit~Ah, bon, tant mieux !
+Lugalbanda~Normal~Donc, pourquoi vouloir lui faire oublier que ce n'est pas son anniversaire ?
+Shura~Smug~Pour lui offrir un cadeau d'anniversaire, voyons, pour quoi d'autre ?
+Goldy~Pensif~Je ne te demanderai même pas ce qu'il t'est passé par la tête pour avoir une idée pareille...
+Goldy~Génée~Donc, faisons avec pour le moment... Tu as déjà une idée au moins, Shura ?
+Shura~Sourit~Pas la moindre !
+Goldy~Génée~Ne nous voilà donc absolument pas avancées...
+Lugalbanda~Normal~Si on doit le faire... Une pierre précieuse je suppose ?
+Shura~Smug~C'est bien trop courant !
+Goldy~Pensif~Mmh... Tu comptais faire quoi pour moi la dernière fois ?
+Shura~Sourit~Une fête dans un autre château ! Mais puisque je n'ai pas d'autre château...
+Goldy~Génée~Oui...?
+Shura~Colère~J'avais décidé d'aller dans un autre château d'Uruk ! Et une personne gentille m'a donné le bouton pour y aller !
+Goldy~Pensif~Donc c'est pour ça que nous étions dans un château de cristal...
+Lugalbanda~Normal~Un château de cristal ?
+Goldy~Génée~Ah, oui, c'est vrai que tu n'étais pas là...
+Shura~Sourit~J'avais juste fait comme ça ! *BIP*
+End~Scene2

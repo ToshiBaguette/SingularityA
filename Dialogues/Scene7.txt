@@ -1,0 +1,29 @@
+Background~Plage
+Goldy~Normal~J'ai plusieurs questions.
+Shura~Surprise~Depuis quand il y a une plage ici ?!
+Goldy~Normal~En voici une, par exemple.
+Sagburu~SeuleNormal~C'est bizarre, je suis pourtant sûr que c'est ici que se trouve Enmerkar...
+Everett~Normal~Ça a l'air d'être ici. On nous attendait, à ce que je vois.
+Inanna~Colère~Qu'ils se ramènent, je vais tous les exploser !
+Inconnu~Soldat~Vous êtes le groupe qui veut s'en prendre à la reine, n'est-ce pas ?
+Ur-Nungal~Normal~Non ?
+Lugalbanda~Surprise~Ah bon ? C'est pas nous qui-
+Inconnu~Soldat~Vous vous moquez de moi ?
+Ur-Nungal~Heureuse~On voudrait simplement s'entrenir avec la reine !
+Inconnu~Soldat~... A-Accordé.
+Inanna~Pensif~Depuis quand est-ce que Nungal est une arme de charme massif ?
+Goldy~Génée~Très bonne question...
+Shura~Normal~Mmh ?
+Shock~Shura~1~5
+Shura~Surprise~I-Il ne fallait pas les frapper ?!
+Goldy~Pensif~Comment ça il ne-
+Inconnu~Soldat~A... Arrê... Tez les...
+Shura~Colère~Aya !
+Inconnu~Soldat~Urgh...
+Shock~Inconnu~2~5
+Goldy~Colère~Dites moi que je rêve... Mais c'est pas possible SHURA !
+Shura~Surprise~Oups.
+Inconnu~Soldat~Attaquez les !
+Music~Id Purpose~True
+Lugalbanda~Sourit~La paix n'a jamais été une option !
+End~battle1

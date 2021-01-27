@@ -1,0 +1,54 @@
+Background~Plage
+Music~Kotayaka~True
+Goldy~Normal~Bien, on dirait qu'on en a finit avec eux.
+Shura~Sourit~Fiou ! J'ai bien crû que ça n'en finirait jamais !
+Sagburu~SeuleNormal~Même si tu es celle qui a commencé.
+Everett~Normal~Ne vous réjouissez pas trop vite, la reine a l'air d'arriver.
+Inanna~Colère~Ah oui ? Et bien je serai heureuse de lui flanquer une raclée dès maintenant !
+Goldy~Génée~Calmes-toi Inanna, on doit encore retrouver Enmerkar après.
+Music~Administrator~True
+Frédégonde~Normal~Je vois que vous avez réussi à arriver jusqu'ici.
+Sagburu~SeuleSourit~Après tout, on doit retrouver MON Enmerkar.
+Frédégonde~Sourit~Je suis désolée, mais il m'appartient à moi, la Reine Frédégonde, maintenant.
+Inanna~Pensif~Ça n'allait pas être aussi simple que juste lui demander, après tout...
+Sagburu~SeuleSourit~Ah oui ? Il t'appartient ? Comme c'est bizarre.
+Frédégonde~Triste~Bizarre ?
+Sagburu~SeuleSourit~Aux dernières nouvelles, j'avais marqué mon nom sur lui, il est MA propriété !
+Ur-Nungal~Normal~Pourquoi marquer son nom sur Enmerkar ?
+Goldy~Pensif~Ne cherches pas à comprendre...
+Shura~Colère~Toujours chercher à obtenir la vérité !
+Everett~Normal~Dans certains cas, il vaut mieux ne pas savoir.
+Lugalbanda~Normal~Étonnament d'accord avec elle pour le coup. Ne cherche pas à savoir, Ur-Nungal...
+Frédégonde~Sourit~Mais il criait mon nom tout à l'heure ! Il m'aime sûrement plus que toi !
+Sagburu~SeuleNormal~Alors ça, ça m'étonnerai ! Il n'a d'yeux que pour moi après tout.
+Frédégonde~Colère~Et bien dans ce cas, je l'aime plus que tu ne l'aimes !
+Sagburu~SeuleSourit~Moh, c'est mignon ! Tu lui lèches les pieds le soir avant de te coucher pendant que tu y es ?
+Frédégonde~Colère~... Réduire notre relation à lécher ses pieds... Tu ne peux pas comprendre ce qu'on ressent !
+Sagburu~SeuleNormal~Peut-être, mais je peux au moins comprendre que tu es folle vu ce que tu racontes.
+Frédégonde~Colère~Grr... Pour protéger mon roi...
+Goldy~Normal~Elle a l'air de se préparer à attaquer !
+Sagburu~SeuleSourit~Heh, regardez là ! Elle prend vraiment notre bon à rien d'Enmerkar pour un dieu vivant !
+Inanna~Pensif~Tu sais, techniquement... C'EST un dieu !
+Frédégonde~Colère~... JE TUERAI AUTANT QU'IL LE FAUDRA !
+Shock~Frédégonde~2~2
+Sagburu~SeuleColère~Arg !
+Shock~Sagburu~2~2
+Lugalbanda~Surprise~Sagburu ! Ça va ?
+Sagburu~SeuleColère~On... Ne peut mieux, je pense ?
+Frédégonde~Triste~Kuh... Tu es plus résistante que tu en as l'air.
+Sagburu~SeuleSourit~Évidemment, tu me prenais pour quoi ? Un insecte aussi frêle que toi ?
+Frédégonde~Colère~Tu oses toujours m'insulter ?
+Sagburu~SeuleSourit~Et bien... Oui, regardes-toi, tu as déjà du mal à frapper quelqu'un sans t'écrouler.
+Inanna~Colère~Bien... Il est temps de finalement récupérer mon frère. Sagburu, tu ferais mieux de te décaler !
+Sagburu~SeuleNormal~Oui, oui, laissez moi m'occuper des soins !
+Frédégonde~Triste~Cela serait injuste si vous m'affrontiez à 6 contre 1...
+Inanna~Colère~Qui se soucit d'être juste ou injuste en des temps pareils ?
+Frédégonde~Triste~Personne, c'est vrai...
+Frédégonde~Sourit~Dans ce cas, permettez moi d'avoir ma propre armée.
+Goldy~Pensif~Je ne vois perso-
+Inconnu~Soldat~Groupe d'élite rapproché présent pour la reine.
+Ur-Nungal~Normal~Comment il a fait pour arriver sans être remarqué ?
+Everett~Normal~Il semble que leur groupe nous ait même encerclé.
+Music~Id Purpose~True
+Lugalbanda~Sourit~Décidément, cette journée n'en finit plus.
+End~battle2

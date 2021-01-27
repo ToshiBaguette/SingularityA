@@ -1,0 +1,29 @@
+Background~Uruk
+Sagburu~SeuleColère~Il me trompait depuis combien de temps finalement ?
+Ur-Nungal~Normal~Je ne pense pas que Enmerkar ait pu faire une chose pareille...
+Sagburu~SeuleColère~Alors pourquoi est-ce qu'elle dit qu'ils sont fait l'un pour l'autre ?!
+Ur-Nungal~Normal~Il vient de se faire kidnapper, peut-être que la personne est folle ?
+Goldy~Sourit~Ce doit être ça, Enmerkar était tout le temps avec toi avant non ?
+Shock~Ur-Nungal~1~5
+Ur-Nungal~Heureuse~Maman !
+Goldy~Sourit~Woah !
+Shock~Goldy~1~5
+Sagburu~SeuleColère~Ce n'est pas faux...
+Lugalbanda~Sourit~Le tout, c'est de le retrouver maintenant !
+Sagburu~SeuleNormal~Je peux m'en charger, il n'est pas difficile à localiser puisqu'on est lié.
+Ur-Nungal~Normal~P-Pourquoi est-ce que tu ne l'as pas fait depuis le départ ?
+Sagburu~SeuleSourit~Oh tu sais... Le choc, tout ça...
+Inanna~Colère~Tu voulais surtout lui faire payer un adultère qu'il n'a pas commis !
+Sagburu~SeuleSourit~Je ne vois absolument pas de quoi tu veux parler, je n'ai pas d'idée aussi mauvaise voyons.
+Ur-Nungal~Sérieuse~Et tout à l'heure quand tu disais qu'il pouvait bien mour-
+Sagburu~SeuleSourit~Je suis une pure jeune femme sans défense, comment peut-on croire que je dise une chose pareille~?
+Inanna~Pensif~Une jeune femme pure...?
+Goldy~Génée~Ne nous attardons pas sur des... DÉTAILS de ce genre.
+Sagburu~SeuleNormal~Exactement ! Bien, allons tout de suite délivrer mon pauvre Enmerkar !
+Narrateur~Narrateur~Et c'est ainsi que le groupe d'amies de Goldy partit en voyage pour-
+Everett~Colère~Et moi, ne m'oublie pas !
+Narrateur~Narrateur~Je viens de dire "le groupe d'amies" !
+Everett~Normal~Sauf qu'elles ne m'ont toujours pas invitée à le rejoindre, ce groupe...
+Narrateur~Narrateur~Voilà qui est triste. Donc, c'est ainsi que le groupe d'amies de Goldy...
+Narrateur~Narrateur~... Et Everett, partirent en quête de liberté pour Enmerkar.
+End~Scene5
