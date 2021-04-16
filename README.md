@@ -2,3 +2,5 @@ SingularityA est un projet de moteur de jeu en python, principalement avec Pygam
 Il est possible de programmer de nouveaux modes de jeu en python, et les rendre entièrement compatibles avec le reste du moteur.
 
 D'abord débuté comme un moteur de Visual Novel, il a ensuite été repris pour un second projet y ajoutant des combats tactiques au tour par tour rappelant la série de jeux Fire Emblem.
+
+Une nouvelle version, bien plus évoluée, a par la suite été créée sous le nom d'UniverseGenesis => https://github.com/Toshibane/UniverseGenesis.
